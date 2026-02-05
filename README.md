@@ -23,4 +23,5 @@ Aplicación de consola en **C# (.NET 10)** que solicita tres números enteros y 
 - Dilahan Fonseca
 - 6to Cuatrimestre - Programación V
 - Universidad Tecnológica Costarricense
-- Ingeniería en Sistemas Computacionales 🇨🇷
+- Ingeniería en Sistemas Computacionales <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Costa_Rica_%28state%29.svg" width="20"/>
+
