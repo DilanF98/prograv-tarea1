@@ -1,0 +1,14 @@
+D:\UTC\Cuatri6\PrograV\Tarea1\bin\Debug\net10.0\Tarea1.exe
+D:\UTC\Cuatri6\PrograV\Tarea1\bin\Debug\net10.0\Tarea1.deps.json
+D:\UTC\Cuatri6\PrograV\Tarea1\bin\Debug\net10.0\Tarea1.runtimeconfig.json
+D:\UTC\Cuatri6\PrograV\Tarea1\bin\Debug\net10.0\Tarea1.dll
+D:\UTC\Cuatri6\PrograV\Tarea1\bin\Debug\net10.0\Tarea1.pdb
+D:\UTC\Cuatri6\PrograV\Tarea1\obj\Debug\net10.0\Tarea1.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTC\Cuatri6\PrograV\Tarea1\obj\Debug\net10.0\Tarea1.AssemblyInfoInputs.cache
+D:\UTC\Cuatri6\PrograV\Tarea1\obj\Debug\net10.0\Tarea1.AssemblyInfo.cs
+D:\UTC\Cuatri6\PrograV\Tarea1\obj\Debug\net10.0\Tarea1.csproj.CoreCompileInputs.cache
+D:\UTC\Cuatri6\PrograV\Tarea1\obj\Debug\net10.0\Tarea1.dll
+D:\UTC\Cuatri6\PrograV\Tarea1\obj\Debug\net10.0\refint\Tarea1.dll
+D:\UTC\Cuatri6\PrograV\Tarea1\obj\Debug\net10.0\Tarea1.pdb
+D:\UTC\Cuatri6\PrograV\Tarea1\obj\Debug\net10.0\Tarea1.genruntimeconfig.cache
+D:\UTC\Cuatri6\PrograV\Tarea1\obj\Debug\net10.0\ref\Tarea1.dll
