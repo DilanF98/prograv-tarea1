@@ -20,8 +20,7 @@ Aplicación de consola en **C# (.NET 10)** que solicita tres números enteros y 
 3. Ejecutar (`Ctrl + F5`)
 
 ## Autor
-Dilahan Fonseca
-
-6to Cuatrimestre - Programación V
-Universidad Tecnológica Costarricense
-Ingeniería en Sistemas Computacionales 🇨🇷
+- Dilahan Fonseca
+- 6to Cuatrimestre - Programación V
+- Universidad Tecnológica Costarricense
+- Ingeniería en Sistemas Computacionales 🇨🇷
