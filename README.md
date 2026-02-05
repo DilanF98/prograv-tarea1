@@ -15,8 +15,8 @@ Aplicación de consola en **C# (.NET 10)** que solicita tres números enteros y 
 - Visual Studio
 
 ## Ejecución
-1. Crear un proyecto **Console App**
-2. Reemplazar `Program.cs`
+1. Hacer el típico pull
+2. Abrir el archivo de proyecto
 3. Ejecutar (`Ctrl + F5`)
 
 ## Autor
