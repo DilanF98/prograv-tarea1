@@ -1,0 +1,26 @@
+# Comparador de Tres Números (C#)
+
+Aplicación de consola en **C# (.NET 10)** que solicita tres números enteros y determina cuál es el mayor, considerando casos donde dos o los tres números sean iguales.
+
+## Funcionalidad
+- Ingreso de tres números por consola  
+- Comparación usando estructuras `if`  
+- Manejo de números iguales  
+- Código organizado en métodos  
+- Todo en un solo archivo (`Program.cs`)
+
+## Tecnologías
+- C#
+- .NET 10
+- Visual Studio
+
+## Ejecución
+1. Crear un proyecto **Console App**
+2. Reemplazar `Program.cs`
+3. Ejecutar (`Ctrl + F5`)
+
+## Autor
+Dilahan Fonseca
+6to Cuatrimestre - Programación V
+Universidad Tecnológica Costarricense
+Ingeniería en Sistemas Computacionales 🇨🇷
