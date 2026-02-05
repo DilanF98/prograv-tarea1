@@ -21,6 +21,9 @@ Aplicación de consola en **C# (.NET 10)** que solicita tres números enteros y 
 
 ## Autor
 Dilahan Fonseca
+
 6to Cuatrimestre - Programación V
+
 Universidad Tecnológica Costarricense
+
 Ingeniería en Sistemas Computacionales 🇨🇷
